@@ -1,0 +1,15 @@
+table {
+    border-spacing: 10px 5px;
+}
+
+body {
+    text-align: center;
+    background-color: #2b2b2b;
+}
+
+hr {
+    color: white;
+}
+p {
+    color: white;
+}
